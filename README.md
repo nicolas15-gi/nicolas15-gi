@@ -1,16 +1,15 @@
-## Hi there 👋
+### Boas vindas ao meu perfil
 
-<!--
-**nicolas15-gi/nicolas15-gi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Nicolas Giovanetti
 
-Here are some ideas to get you started:
+estou estudando na [Alura](https://www.alura.com.br)
+estou me desenvolvendo na linguagem javascipt
+utilizo esse espaco para minha organizacao e compartilhamento dos meu projetos desenvovl
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### voce entra em contato comigo 📫
+
+nicolasspadotog@gmail.com
+
+00001125897752sp@al.educacao.sp.gov.br
+
+![](https://media1.tenor.com/m/hc_ySixzFpsAAAAC/explosion-action.gif)
